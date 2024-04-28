@@ -1,0 +1,17 @@
+# parcel 
+ - what are the advantages of parcel
+ - Dev builds 
+ - Local server 
+ - HMR - hot module Replacement
+ - File watching algorithm -written in c++
+ - Caching -faster builds represented by .parcel-cache
+ - Image optimaztion
+ - Minification
+ - Bundling
+ - Compress
+ - Consistent Hashing
+ - Code spliting
+ - Differential Building -  support older browsers 
+ - Diagnostic
+ - Error handling
+ - HTTPs
